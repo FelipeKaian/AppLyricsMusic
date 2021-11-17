@@ -11,7 +11,7 @@ import {
 
 const Home = () => {
   
-  const [artist,setArtist] = useState("");
+    const [artist,setArtist] = useState("");
 
     const [music,setMusic] = useState("");
 
